@@ -1,0 +1,6 @@
+Can't add empty note
+Add a Title
+Mark a note as important
+Edit note
+Separate note by user
+Sync and host to a web-server
